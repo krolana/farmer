@@ -1,0 +1,27 @@
+ZASADY GRY
+Gra jest przeznaczona dla dwóch graczy. W swoim ruchu gracz może rzucić kośćmi
+lub dokonać wymiany zwierząt.
+
+RZUT KOŚĆMI
+Jeśli gracz rzuci kostkami tak, że na obu wypadnie takie samo zwierzę, to
+dostaje to zwierzę ze stada głównego. Gdy gracz ma już jakieś zwierzęta, to po
+rzucie otrzymuje ze stada tyle zwierząt wyrzuconego gatunku, ile ma pełnych par
+tego gatunku (łącznie z wyrzuconymi na kostkach).
+UWAGA! Jeśli gracz wyrzuci lisa, traci wszystkie swoje króliki, oprócz jednego.
+Jeśli wyrzuci wilka, traci wszystkie posiadane zwierzęta, z wyjątkiem konia,
+królików i małego psa, (jeśli je ma). Przed atakiem lisa chroni mały pies
+(króliki pozostają bezpieczne, ale gracz traci małego psa), a przed atakiem
+wilka duży pies (zwierzęta pozostają bezpieczne, ale gracz traci dużego psa).
+
+WYMIANA ZWIERZĄT
+Można dokonać jednej z poniższych wymian:
+A) Wymienić 6 królików na 1 owcę.
+B) Wymienić 2 owce na 1 świnię.
+C) Wymienić 3 świnie na 1 krowę.
+D) Wymienić 2 krowy na 1 konia.
+E) Wymienić 1 owcę na 1 małego psa.
+F) Wymienić 1 krowę na 1 dużego psa.
+
+WYGRANA
+Wygrywa ten z graczy, który jako pierwszy zdobędzie przynajmniej po jednym
+koniu, krowie, świni, owcy i króliku.
